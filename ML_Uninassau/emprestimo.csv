@@ -1,0 +1,376 @@
+Livro Emprestado,DataRetirada,DataEntrega,Status,Nome,Idade,Sexo,
+A Montanha Mágica,04/09/2023 00:00:00,13/09/2023 00:00:00,Emprestado,João Pedro,30,M
+A Hora da Estrela,05/09/2023 00:00:00,14/09/2023 00:00:00,Disponivel,Maria Clara,22,F
+Cem Anos de Solidão,06/09/2023 00:00:00,15/09/2023 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+O Retrato de Dorian Gray,07/09/2023 00:00:00,16/09/2023 00:00:00,Emprestado,Paula Fernanda,26,F
+Jane Eyre,08/09/2023 00:00:00,17/09/2023 00:00:00,Disponivel,José Antonio,35,M
+O Morro dos Ventos Uivantes,09/09/2023 00:00:00,18/09/2023 00:00:00,NaoDisponivel,Juliana Silva,32,F
+As Crônicas de Nárnia,10/09/2023 00:00:00,19/09/2023 00:00:00,Emprestado,Ricardo Lima,27,M
+O Código Da Vinci,11/09/2023 00:00:00,20/09/2023 00:00:00,Disponivel,Fernanda Souza,29,F
+Teste,11/09/2023 00:00:00,21/09/2023 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+Inferno,13/09/2023 00:00:00,22/09/2023 00:00:00,Emprestado,Camila Santos,33,F
+O Símbolo Perdido,14/09/2023 00:00:00,23/09/2023 00:00:00,Disponivel,Pedro Henrique,31,M
+Fortaleza Digital,15/09/2023 00:00:00,24/09/2023 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+A Origem,16/09/2023 00:00:00,25/09/2023 00:00:00,Emprestado,Felipe Pereira,29,M
+O Senhor dos Anéis: A Sociedade do Anel,17/09/2023 00:00:00,26/09/2023 00:00:00,Disponivel,Luana Costa,26,F
+O Senhor dos Anéis: As Duas Torres,18/09/2023 00:00:00,27/09/2023 00:00:00,NaoDisponivel,Diego Alves,34,M
+O Senhor dos Anéis: O Retorno do Rei,19/09/2023 00:00:00,28/09/2023 00:00:00,Emprestado,Tatiana Borges,21,F
+O Hobbit,20/09/2023 00:00:00,29/09/2023 00:00:00,Disponivel,Gustavo Mendes,28,M
+A Guerra dos Tronos,21/09/2023 00:00:00,30/09/2023 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+A Fúria dos Reis,22/09/2023 00:00:00,01/10/2023 00:00:00,Emprestado,Rafael Soares,27,M
+A Tormenta de Espadas,23/09/2023 00:00:00,02/10/2023 00:00:00,Disponivel,Larissa Freitas,32,F
+O Festim dos Corvos,24/09/2023 00:00:00,03/10/2023 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+A Dança dos Dragões,25/09/2023 00:00:00,04/10/2023 00:00:00,Emprestado,Patrícia Martins,31,F
+O Cavaleiro dos Sete Reinos,26/09/2023 00:00:00,05/10/2023 00:00:00,Disponivel,Lucas Rocha,22,M
+Fire & Blood,27/09/2023 00:00:00,06/10/2023 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+O Silmarillion,28/09/2023 00:00:00,07/10/2023 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Contos Inacabados,29/09/2023 00:00:00,08/10/2023 00:00:00,Disponivel,Carolina Dias,29,F
+O Filho de Ninguém,30/09/2023 00:00:00,09/10/2023 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+O Pequeno Príncipe,01/10/2023 00:00:00,10/10/2023 00:00:00,Emprestado,Michele Farias,33,F
+O Sol é Para Todos,02/10/2023 00:00:00,11/10/2023 00:00:00,Disponivel,André Neves,30,M
+O Caçador de Pipas,03/10/2023 00:00:00,12/10/2023 00:00:00,NaoDisponivel,Gabriela Mendes,24,F
+A Menina que Roubava Livros,04/10/2023 00:00:00,13/10/2023 00:00:00,Emprestado,Leonardo Ferreira,28,M
+O Conto da Aia,05/10/2023 00:00:00,14/10/2023 00:00:00,Disponivel,Priscila Barbosa,25,F
+O Nome da Rosa,06/10/2023 00:00:00,15/10/2023 00:00:00,NaoDisponivel,Thiago Oliveira,31,M
+O Apanhador no Campo de Centeio,07/10/2023 00:00:00,16/10/2023 00:00:00,Emprestado,Renata Almeida,23,F
+A Revolução dos Bichos,08/10/2023 00:00:00,17/10/2023 00:00:00,Disponivel,Eduardo Castro,32,M
+1984,09/10/2023 00:00:00,18/10/2023 00:00:00,NaoDisponivel,Daniela Gomes,27,F
+A Metamorfose,10/10/2023 00:00:00,19/10/2023 00:00:00,Emprestado,Marcelo Monteiro,35,M
+Dom Casmurro,02/09/2023 00:00:00,11/09/2023 00:00:00,Emprestado,Isabela,23,F
+A Revolução dos Bichos,03/09/2023 00:00:00,12/09/2023 00:00:00,Emprestado,Ana Maria,25,F
+1984,04/09/2023 00:00:00,13/09/2023 00:00:00,Emprestado,João Pedro,30,M
+A Metamorfose,05/09/2023 00:00:00,14/09/2023 00:00:00,Emprestado,Maria Clara,22,F
+O Pequeno Príncipe,06/09/2023 00:00:00,15/09/2023 00:00:00,Emprestado,Carlos Eduardo,28,M
+Moby Dick,07/09/2023 00:00:00,16/09/2023 00:00:00,Emprestado,Paula Fernanda,26,F
+Memórias Póstumas de Brás Cubas,08/09/2023 00:00:00,17/09/2023 00:00:00,Emprestado,José Antonio,35,M
+Crime e Castigo,09/09/2023 00:00:00,18/09/2023 00:00:00,Emprestado,Juliana Silva,32,F
+O Conde de Monte Cristo,10/09/2023 00:00:00,19/09/2023 00:00:00,Emprestado,Ricardo Lima,27,M
+Guerra e Paz,11/09/2023 00:00:00,20/09/2023 00:00:00,Emprestado,Fernanda Souza,29,F
+O Nome da Rosa,12/09/2023 00:00:00,21/09/2023 00:00:00,Emprestado,Marcos Vinícius,24,M
+Os Miseráveis,13/09/2023 00:00:00,22/09/2023 00:00:00,Emprestado,Camila Santos,33,F
+A Divina Comédia,14/09/2023 00:00:00,23/09/2023 00:00:00,Emprestado,Pedro Henrique,31,M
+O Morro dos Ventos Uivantes,15/09/2023 00:00:00,24/09/2023 00:00:00,Emprestado,Bianca Oliveira,23,F
+O Grande Gatsby,16/09/2023 00:00:00,25/09/2023 00:00:00,Emprestado,Felipe Pereira,29,M
+O Apanhador no Campo de Centeio,17/09/2023 00:00:00,26/09/2023 00:00:00,Emprestado,Luana Costa,26,F
+Cem Anos de Solidão,18/09/2023 00:00:00,27/09/2023 00:00:00,Emprestado,Diego Alves,34,M
+Orgulho e Preconceito,19/09/2023 00:00:00,28/09/2023 00:00:00,Emprestado,Tatiana Borges,21,F
+O Sol é Para Todos,20/09/2023 00:00:00,29/09/2023 00:00:00,Emprestado,Gustavo Mendes,28,M
+A Ilha do Tesouro,21/09/2023 00:00:00,30/09/2023 00:00:00,Emprestado,Isabela Cardoso,30,F
+O Alquimista,22/09/2023 00:00:00,01/10/2023 00:00:00,Emprestado,Rafael Soares,27,M
+A Menina que Roubava Livros,23/09/2023 00:00:00,02/10/2023 00:00:00,Emprestado,Larissa Freitas,32,F
+O Hobbit,24/09/2023 00:00:00,03/10/2023 00:00:00,Emprestado,Fernando Andrade,25,M
+Harry Potter e a Pedra Filosofal,25/09/2023 00:00:00,04/10/2023 00:00:00,Emprestado,Patrícia Martins,31,F
+Drácula,26/09/2023 00:00:00,05/10/2023 00:00:00,Emprestado,Lucas Rocha,22,M
+Frankenstein,27/09/2023 00:00:00,06/10/2023 00:00:00,Emprestado,Vanessa Ribeiro,27,F
+O Coração das Trevas,28/09/2023 00:00:00,07/10/2023 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Os Irmãos Karamazov,29/09/2023 00:00:00,08/10/2023 00:00:00,Emprestado,Carolina Dias,29,F
+Anna Karenina,30/09/2023 00:00:00,09/10/2023 00:00:00,Emprestado,Bruno Fonseca,26,M
+A Morte de Ivan Ilitch,01/10/2023 00:00:00,10/10/2023 00:00:00,Emprestado,Michele Farias,33,F
+O Processo,02/10/2023 00:00:00,11/10/2023 00:00:00,Emprestado,André Neves,30,M
+Macbeth,03/10/2023 00:00:00,12/10/2023 00:00:00,Emprestado,Gabriela Mendes,24,F
+Hamlet,04/10/2023 00:00:00,13/10/2023 00:00:00,Emprestado,Leonardo Ferreira,28,M
+Odisseia,05/10/2023 00:00:00,14/10/2023 00:00:00,Emprestado,Priscila Barbosa,25,F
+Ilíada,06/10/2023 00:00:00,15/10/2023 00:00:00,Emprestado,Thiago Oliveira,31,M
+A Insustentável Leveza do Ser,11/10/2023 00:00:00,20/10/2023 00:00:00,Disponivel,Simone Moreira,30,F
+A Estrada,12/10/2023 00:00:00,21/10/2023 00:00:00,NaoDisponivel,Igor Campos,29,M
+O Deus das Pequenas Coisas,13/10/2023 00:00:00,22/10/2023 00:00:00,Emprestado,Raquel Pires,22,F
+A Vida do Outro,14/10/2023 00:00:00,23/10/2023 00:00:00,Disponivel,Victor Martins,28,M
+A Cabana,15/10/2023 00:00:00,24/10/2023 00:00:00,NaoDisponivel,Beatriz Vasconcelos,26,F
+O Senhor dos Anéis: A Sociedade do Anel,16/10/2023 00:00:00,25/10/2023 00:00:00,Emprestado,Alexandre Ferreira,34,M
+O Senhor dos Anéis: As Duas Torres,17/10/2023 00:00:00,26/10/2023 00:00:00,Disponivel,Tatiane Moraes,31,F
+O Senhor dos Anéis: O Retorno do Rei,18/10/2023 00:00:00,27/10/2023 00:00:00,NaoDisponivel,Murilo Souza,23,M
+O Hobbit,19/10/2023 00:00:00,28/10/2023 00:00:00,Emprestado,Helena Carvalho,29,F
+O Código Da Vinci,20/10/2023 00:00:00,29/10/2023 00:00:00,Disponivel,Rogério Silva,32,M
+Anjos e Demônios,21/10/2023 00:00:00,30/10/2023 00:00:00,NaoDisponivel,Débora Martins,27,F
+Inferno,22/10/2023 00:00:00,31/10/2023 00:00:00,Emprestado,Fabiano Lopes,35,M
+O Silmarillion,23/10/2023 00:00:00,01/11/2023 00:00:00,Disponivel,Cristina Alves,26,F
+Contos Inacabados,24/10/2023 00:00:00,02/11/2023 00:00:00,NaoDisponivel,Fábio Teixeira,30,M
+O Pequeno Príncipe,25/10/2023 00:00:00,03/11/2023 00:00:00,Emprestado,Sabrina Nascimento,23,F
+A Revolução dos Bichos,26/10/2023 00:00:00,04/11/2023 00:00:00,Disponivel,Matheus Silva,31,M
+1984,27/10/2023 00:00:00,05/11/2023 00:00:00,NaoDisponivel,Talita Pereira,25,F
+A Metamorfose,28/10/2023 00:00:00,06/11/2023 00:00:00,Emprestado,Vitor Santiago,33,M
+O Apanhador no Campo de Centeio,29/10/2023 00:00:00,07/11/2023 00:00:00,Disponivel,Juliana Lima,28,F
+A Insustentável Leveza do Ser,30/10/2023 00:00:00,08/11/2023 00:00:00,NaoDisponivel,Caio Batista,27,M
+O Deus das Pequenas Coisas,31/10/2023 00:00:00,09/11/2023 00:00:00,Emprestado,Elaine Castro,29,F
+A Vida do Outro,01/11/2023 00:00:00,10/11/2023 00:00:00,Disponivel,Francisco Azevedo,34,M
+A Cabana,02/11/2023 00:00:00,11/11/2023 00:00:00,NaoDisponivel,Luciana Nunes,25,F
+Cem Anos de Solidão,03/11/2023 00:00:00,12/11/2023 00:00:00,Emprestado,Jorge Almeida,30,M
+O Retrato de Dorian Gray,04/11/2023 00:00:00,13/11/2023 00:00:00,Disponivel,Silvia Fernandes,27,F
+A Hora da Estrela,05/11/2023 00:00:00,14/11/2023 00:00:00,NaoDisponivel,Henrique Costa,28,M
+As Crônicas de Nárnia,06/11/2023 00:00:00,15/11/2023 00:00:00,Emprestado,Larissa Gomes,24,F
+O Morro dos Ventos Uivantes,07/11/2023 00:00:00,16/11/2023 00:00:00,Disponivel,Rafael Cunha,32,M
+Jane Eyre,08/11/2023 00:00:00,17/11/2023 00:00:00,NaoDisponivel,Patricia Soares,31,F
+O Caçador de Pipas,09/11/2023 00:00:00,18/11/2023 00:00:00,Emprestado,Otávio Melo,26,M
+O Sol é Para Todos,10/11/2023 00:00:00,19/11/2023 00:00:00,Disponivel,Verônica Marques,30,F
+A Menina que Roubava Livros,11/11/2023 00:00:00,20/11/2023 00:00:00,NaoDisponivel,Hugo Neves,29,M
+O Conto da Aia,12/11/2023 00:00:00,21/11/2023 00:00:00,Emprestado,Cristiane Rodrigues,25,F
+O Nome da Rosa,13/11/2023 00:00:00,22/11/2023 00:00:00,Disponivel,Marcelo Ribeiro,34,M
+Fire & Blood,14/11/2023 00:00:00,23/11/2023 00:00:00,NaoDisponivel,Letícia Cardoso,28,F
+Livro 2,10/02/2023 00:00:00,10/03/2023 00:00:00,Emprestado,Isabela,23,F
+Livro 3,05/03/2023 00:00:00,05/04/2023 00:00:00,Emprestado,Ana Maria,25,F
+Livro 4,12/04/2023 00:00:00,12/05/2023 00:00:00,Emprestado,João Pedro,30,M
+Livro 5,18/05/2023 00:00:00,18/06/2023 00:00:00,Emprestado,Maria Clara,22,F
+Livro 6,25/06/2023 00:00:00,25/07/2023 00:00:00,Emprestado,Carlos Eduardo,28,M
+Livro 7,30/07/2023 00:00:00,30/08/2023 00:00:00,Emprestado,Paula Fernanda,26,F
+Livro 8,20/08/2023 00:00:00,20/09/2023 00:00:00,Emprestado,José Antonio,35,M
+Livro 9,15/09/2023 00:00:00,15/10/2023 00:00:00,Emprestado,Juliana Silva,32,F
+Livro 10,10/10/2023 00:00:00,10/11/2023 00:00:00,Emprestado,Ricardo Lima,27,M
+Livro 11,05/11/2023 00:00:00,05/12/2023 00:00:00,Emprestado,Fernanda Souza,29,F
+Livro 2,02/01/2023 00:00:00,12/01/2023 00:00:00,Disponivel,Isabela,23,F
+Livro 3,03/01/2023 00:00:00,13/01/2023 00:00:00,NaoDisponivel,Ana Maria,25,F
+Livro 4,04/01/2023 00:00:00,14/01/2023 00:00:00,Emprestado,João Pedro,30,M
+Livro 5,05/01/2023 00:00:00,15/01/2023 00:00:00,Disponivel,Maria Clara,22,F
+Livro 6,06/01/2023 00:00:00,16/01/2023 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+Livro 7,07/01/2023 00:00:00,17/01/2023 00:00:00,Emprestado,Paula Fernanda,26,F
+Livro 8,08/01/2023 00:00:00,18/01/2023 00:00:00,Disponivel,José Antonio,35,M
+Livro 9,09/01/2023 00:00:00,19/01/2023 00:00:00,NaoDisponivel,Juliana Silva,32,F
+Livro 10,10/01/2023 00:00:00,20/01/2023 00:00:00,Emprestado,Ricardo Lima,27,M
+Livro 11,01/02/2023 00:00:00,11/02/2023 00:00:00,Disponivel,Fernanda Souza,29,F
+Livro 12,02/02/2023 00:00:00,12/02/2023 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+Livro 13,03/02/2023 00:00:00,13/02/2023 00:00:00,Emprestado,Camila Santos,33,F
+Livro 14,04/02/2023 00:00:00,14/02/2023 00:00:00,Disponivel,Pedro Henrique,31,M
+Livro 15,05/02/2023 00:00:00,15/02/2023 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+Livro 16,06/02/2023 00:00:00,16/02/2023 00:00:00,Emprestado,Felipe Pereira,29,M
+Livro 17,07/02/2023 00:00:00,17/02/2023 00:00:00,Disponivel,Luana Costa,26,F
+Livro 18,08/02/2023 00:00:00,18/02/2023 00:00:00,NaoDisponivel,Diego Alves,34,M
+Livro 19,09/02/2023 00:00:00,19/02/2023 00:00:00,Emprestado,Tatiana Borges,21,F
+Livro 20,10/02/2023 00:00:00,20/02/2023 00:00:00,Disponivel,Gustavo Mendes,28,M
+Livro 21,01/03/2023 00:00:00,11/03/2023 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+Livro 22,02/03/2023 00:00:00,12/03/2023 00:00:00,Emprestado,Rafael Soares,27,M
+Livro 23,03/03/2023 00:00:00,13/03/2023 00:00:00,Disponivel,Larissa Freitas,32,F
+Livro 24,04/03/2023 00:00:00,14/03/2023 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+Livro 25,05/03/2023 00:00:00,15/03/2023 00:00:00,Emprestado,Patrícia Martins,31,F
+Livro 26,06/03/2023 00:00:00,16/03/2023 00:00:00,Disponivel,Lucas Rocha,22,M
+Livro 27,07/03/2023 00:00:00,17/03/2023 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+Livro 28,08/03/2023 00:00:00,18/03/2023 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Livro 29,09/03/2023 00:00:00,19/03/2023 00:00:00,Disponivel,Carolina Dias,29,F
+Livro 30,10/03/2023 00:00:00,20/03/2023 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+Livro 31,01/04/2023 00:00:00,11/04/2023 00:00:00,Emprestado,Michele Farias,33,F
+Livro 32,02/04/2023 00:00:00,12/04/2023 00:00:00,Disponivel,André Neves,30,M
+Livro 33,03/04/2023 00:00:00,13/04/2023 00:00:00,NaoDisponivel,Gabriela Mendes,24,F
+Livro 34,04/04/2023 00:00:00,14/04/2023 00:00:00,Emprestado,Leonardo Ferreira,28,M
+Livro 35,05/04/2023 00:00:00,15/04/2023 00:00:00,Disponivel,Priscila Barbosa,25,F
+Livro 37,07/04/2023 00:00:00,17/04/2023 00:00:00,Emprestado,Isabela,23,F
+Livro 38,08/04/2023 00:00:00,18/04/2023 00:00:00,Disponivel,Ana Maria,25,F
+Livro 39,09/04/2023 00:00:00,19/04/2023 00:00:00,NaoDisponivel,João Pedro,30,M
+Livro 40,10/04/2023 00:00:00,20/04/2023 00:00:00,Emprestado,Maria Clara,22,F
+Livro 41,01/05/2023 00:00:00,11/05/2023 00:00:00,Disponivel,Carlos Eduardo,28,M
+Livro 42,02/05/2023 00:00:00,12/05/2023 00:00:00,NaoDisponivel,Paula Fernanda,26,F
+Livro 43,03/05/2023 00:00:00,13/05/2023 00:00:00,Emprestado,José Antonio,35,M
+Livro 44,04/05/2023 00:00:00,14/05/2023 00:00:00,Disponivel,Juliana Silva,32,F
+Livro 45,05/05/2023 00:00:00,15/05/2023 00:00:00,NaoDisponivel,Ricardo Lima,27,M
+Livro 46,06/05/2023 00:00:00,16/05/2023 00:00:00,Emprestado,Fernanda Souza,29,F
+Livro 47,07/05/2023 00:00:00,17/05/2023 00:00:00,Disponivel,Marcos Vinícius,24,M
+Livro 48,08/05/2023 00:00:00,18/05/2023 00:00:00,NaoDisponivel,Camila Santos,33,F
+Livro 49,09/05/2023 00:00:00,19/05/2023 00:00:00,Emprestado,Pedro Henrique,31,M
+Livro 50,10/05/2023 00:00:00,20/05/2023 00:00:00,Disponivel,Bianca Oliveira,23,F
+Livro 51,01/06/2023 00:00:00,11/06/2023 00:00:00,NaoDisponivel,Felipe Pereira,29,M
+Livro 52,02/06/2023 00:00:00,12/06/2023 00:00:00,Emprestado,Luana Costa,26,F
+Livro 53,03/06/2023 00:00:00,13/06/2023 00:00:00,Disponivel,Diego Alves,34,M
+Livro 54,04/06/2023 00:00:00,14/06/2023 00:00:00,NaoDisponivel,Tatiana Borges,21,F
+Livro 55,05/06/2023 00:00:00,15/06/2023 00:00:00,Emprestado,Gustavo Mendes,28,M
+Livro 56,06/06/2023 00:00:00,16/06/2023 00:00:00,Disponivel,Isabela Cardoso,30,F
+Livro 57,07/06/2023 00:00:00,17/06/2023 00:00:00,NaoDisponivel,Rafael Soares,27,M
+Livro 58,08/06/2023 00:00:00,18/06/2023 00:00:00,Emprestado,Larissa Freitas,32,F
+Livro 59,09/06/2023 00:00:00,19/06/2023 00:00:00,Disponivel,Fernando Andrade,25,M
+Livro 60,10/06/2023 00:00:00,20/06/2023 00:00:00,NaoDisponivel,Patrícia Martins,31,F
+Livro 61,01/07/2023 00:00:00,11/07/2023 00:00:00,Emprestado,Lucas Rocha,22,M
+Livro 62,02/07/2023 00:00:00,12/07/2023 00:00:00,Disponivel,Vanessa Ribeiro,27,F
+Livro 63,03/07/2023 00:00:00,13/07/2023 00:00:00,NaoDisponivel,Rodrigo Nogueira,34,M
+Livro 64,04/07/2023 00:00:00,14/07/2023 00:00:00,Emprestado,Carolina Dias,29,F
+Livro 65,05/07/2023 00:00:00,15/07/2023 00:00:00,Disponivel,Bruno Fonseca,26,M
+Livro 66,06/07/2023 00:00:00,16/07/2023 00:00:00,NaoDisponivel,Michele Farias,33,F
+Livro 67,07/07/2023 00:00:00,17/07/2023 00:00:00,Emprestado,André Neves,30,M
+Livro 68,08/07/2023 00:00:00,18/07/2023 00:00:00,Disponivel,Gabriela Mendes,24,F
+Livro 69,09/07/2023 00:00:00,19/07/2023 00:00:00,NaoDisponivel,Leonardo Ferreira,28,M
+Livro 70,10/07/2023 00:00:00,20/07/2023 00:00:00,Emprestado,Priscila Barbosa,25,F
+Livro 72,02/08/2023 00:00:00,12/08/2023 00:00:00,NaoDisponivel,Isabela,23,F
+Livro 73,03/08/2023 00:00:00,13/08/2023 00:00:00,Emprestado,Ana Maria,25,F
+1984,02/01/2023 00:00:00,12/01/2023 00:00:00,Disponivel,Isabela,23,F
+Dom Casmurro,03/01/2023 00:00:00,13/01/2023 00:00:00,NaoDisponivel,Ana Maria,25,F
+A Metamorfose,04/01/2023 00:00:00,14/01/2023 00:00:00,Emprestado,João Pedro,30,M
+A Revolução dos Bichos,05/01/2023 00:00:00,15/01/2023 00:00:00,Disponivel,Maria Clara,22,F
+O Alquimista,06/01/2023 00:00:00,16/01/2023 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+O Pequeno Príncipe,07/01/2023 00:00:00,17/01/2023 00:00:00,Emprestado,Paula Fernanda,26,F
+Cem Anos de Solidão,08/01/2023 00:00:00,18/01/2023 00:00:00,Disponivel,José Antonio,35,M
+Moby Dick,09/01/2023 00:00:00,19/01/2023 00:00:00,NaoDisponivel,Juliana Silva,32,F
+Orgulho e Preconceito,10/01/2023 00:00:00,20/01/2023 00:00:00,Emprestado,Ricardo Lima,27,M
+A Divina Comédia,01/02/2023 00:00:00,11/02/2023 00:00:00,Disponivel,Fernanda Souza,29,F
+A Ilíada,02/02/2023 00:00:00,12/02/2023 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+O Morro dos Ventos Uivantes,03/02/2023 00:00:00,13/02/2023 00:00:00,Emprestado,Camila Santos,33,F
+Frankenstein,04/02/2023 00:00:00,14/02/2023 00:00:00,Disponivel,Pedro Henrique,31,M
+Drácula,05/02/2023 00:00:00,15/02/2023 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+A Menina que Roubava Livros,06/02/2023 00:00:00,16/02/2023 00:00:00,Emprestado,Felipe Pereira,29,M
+O Conde de Monte Cristo,07/02/2023 00:00:00,17/02/2023 00:00:00,Disponivel,Luana Costa,26,F
+O Sol é para Todos,08/02/2023 00:00:00,18/02/2023 00:00:00,NaoDisponivel,Diego Alves,34,M
+O Senhor das Moscas,09/02/2023 00:00:00,19/02/2023 00:00:00,Emprestado,Tatiana Borges,21,F
+A Guerra dos Tronos,10/02/2023 00:00:00,20/02/2023 00:00:00,Disponivel,Gustavo Mendes,28,M
+A Cor Púrpura,01/03/2023 00:00:00,11/03/2023 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+O Lobo da Estepe,02/03/2023 00:00:00,12/03/2023 00:00:00,Emprestado,Rafael Soares,27,M
+O Processo,03/03/2023 00:00:00,13/03/2023 00:00:00,Disponivel,Larissa Freitas,32,F
+A Peste,04/03/2023 00:00:00,14/03/2023 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+O Velho e o Mar,05/03/2023 00:00:00,15/03/2023 00:00:00,Emprestado,Patrícia Martins,31,F
+Crime e Castigo,06/03/2023 00:00:00,16/03/2023 00:00:00,Disponivel,Lucas Rocha,22,M
+O Estrangeiro,07/03/2023 00:00:00,17/03/2023 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+A Casa dos Espíritos,08/03/2023 00:00:00,18/03/2023 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Os Miseráveis,09/03/2023 00:00:00,19/03/2023 00:00:00,Disponivel,Carolina Dias,29,F
+O Grande Gatsby,10/03/2023 00:00:00,20/03/2023 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+Catcher in the Rye,01/04/2023 00:00:00,11/04/2023 00:00:00,Emprestado,Michele Farias,33,F
+Um Estranho no Ninho,02/04/2023 00:00:00,12/04/2023 00:00:00,Disponivel,André Neves,30,M
+O Homem Invisível,03/04/2023 00:00:00,13/04/2023 00:00:00,NaoDisponivel,Gabriela Mendes,24,F
+Os Sete Maridos de Evelyn Hugo,04/04/2023 00:00:00,14/04/2023 00:00:00,Emprestado,Leonardo Ferreira,28,M
+O Livro dos Espíritos,05/04/2023 00:00:00,15/04/2023 00:00:00,Disponivel,Priscila Barbosa,25,F
+A Arte da Guerra,07/04/2023 00:00:00,17/04/2023 00:00:00,Emprestado,Isabela,23,F
+A Menina do Vale,08/04/2023 00:00:00,18/04/2023 00:00:00,Disponivel,Ana Maria,25,F
+O Diário de Anne Frank,09/04/2023 00:00:00,19/04/2023 00:00:00,NaoDisponivel,João Pedro,30,M
+O Hobbit,10/04/2023 00:00:00,20/04/2023 00:00:00,Emprestado,Maria Clara,22,F
+A Última Flor do Lácio,01/05/2023 00:00:00,11/05/2023 00:00:00,Disponivel,Carlos Eduardo,28,M
+O Fantasma da Ópera,02/05/2023 00:00:00,12/05/2023 00:00:00,NaoDisponivel,Paula Fernanda,26,F
+As Aventuras de Sherlock Holmes,03/05/2023 00:00:00,13/05/2023 00:00:00,Emprestado,José Antonio,35,M
+A Cidade do Sol,05/05/2023 00:00:00,15/05/2023 00:00:00,NaoDisponivel,Ricardo Lima,27,M
+A Rainha do Sul,06/05/2023 00:00:00,16/05/2023 00:00:00,Emprestado,Fernanda Souza,29,F
+O Código Da Vinci,07/05/2023 00:00:00,17/05/2023 00:00:00,Disponivel,Marcos Vinícius,24,M
+O Mundo de Sofia,08/05/2023 00:00:00,18/05/2023 00:00:00,NaoDisponivel,Camila Santos,33,F
+A Insustentável Leveza do Ser,09/05/2023 00:00:00,19/05/2023 00:00:00,Emprestado,Pedro Henrique,31,M
+A Casa das Sete Mulheres,10/05/2023 00:00:00,20/05/2023 00:00:00,Disponivel,Bianca Oliveira,23,F
+O Físico,01/06/2023 00:00:00,11/06/2023 00:00:00,NaoDisponivel,Felipe Pereira,29,M
+A Rainha do Sul,02/06/2023 00:00:00,12/06/2023 00:00:00,Emprestado,Luana Costa,26,F
+A História Sem Fim,03/06/2023 00:00:00,13/06/2023 00:00:00,Disponivel,Diego Alves,34,M
+O Caçador de Pipas,04/06/2023 00:00:00,14/06/2023 00:00:00,NaoDisponivel,Tatiana Borges,21,F
+A Sombra do Vento,05/06/2023 00:00:00,15/06/2023 00:00:00,Emprestado,Gustavo Mendes,28,M
+A Casa dos Espíritos,06/06/2023 00:00:00,16/06/2023 00:00:00,Disponivel,Isabela Cardoso,30,F
+A Morte e a Morte de Quincas Berro D'Água,07/06/2023 00:00:00,17/06/2023 00:00:00,NaoDisponivel,Rafael Soares,27,M
+A Cor Púrpura,08/06/2023 00:00:00,18/06/2023 00:00:00,Emprestado,Larissa Freitas,32,F
+O Último Mergulho,09/06/2023 00:00:00,19/06/2023 00:00:00,Disponivel,Fernando Andrade,25,M
+O Coração e a Bicicleta,10/06/2023 00:00:00,20/06/2023 00:00:00,NaoDisponivel,Patrícia Martins,31,F
+O Caçador de Pipas,01/07/2023 00:00:00,11/07/2023 00:00:00,Emprestado,Lucas Rocha,22,M
+O Pequeno Príncipe,02/07/2023 00:00:00,12/07/2023 00:00:00,Disponivel,Vanessa Ribeiro,27,F
+Cem Anos de Solidão,03/07/2023 00:00:00,13/07/2023 00:00:00,NaoDisponivel,Rodrigo Nogueira,34,M
+A Menina que Roubava Livros,04/07/2023 00:00:00,14/07/2023 00:00:00,Emprestado,Carolina Dias,29,F
+A Insustentável Leveza do Ser,05/07/2023 00:00:00,15/07/2023 00:00:00,Disponivel,Bruno Fonseca,26,M
+As Crônicas de Nárnia,06/07/2023 00:00:00,16/07/2023 00:00:00,NaoDisponivel,Michele Farias,33,F
+Os Miseráveis,07/07/2023 00:00:00,17/07/2023 00:00:00,Emprestado,André Neves,30,M
+1984,02/12/2023 00:00:00,12/12/2023 00:00:00,Disponivel,Isabela,23,F
+Dom Casmurro,03/12/2023 00:00:00,13/12/2023 00:00:00,NaoDisponivel,Ana Maria,25,F
+A Metamorfose,04/12/2023 00:00:00,14/12/2023 00:00:00,Emprestado,João Pedro,30,M
+A Revolução dos Bichos,05/12/2023 00:00:00,15/12/2023 00:00:00,Disponivel,Maria Clara,22,F
+O Alquimista,06/12/2023 00:00:00,16/12/2023 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+O Pequeno Príncipe,07/12/2023 00:00:00,17/12/2023 00:00:00,Emprestado,Paula Fernanda,26,F
+Cem Anos de Solidão,08/12/2023 00:00:00,18/12/2023 00:00:00,Disponivel,José Antonio,35,M
+Moby Dick,09/12/2023 00:00:00,19/12/2023 00:00:00,NaoDisponivel,Juliana Silva,32,F
+Orgulho e Preconceito,10/12/2023 00:00:00,20/12/2023 00:00:00,Emprestado,Ricardo Lima,27,M
+A Divina Comédia,11/12/2023 00:00:00,21/12/2023 00:00:00,Disponivel,Fernanda Souza,29,F
+A Ilíada,12/12/2023 00:00:00,22/12/2023 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+O Morro dos Ventos Uivantes,13/12/2023 00:00:00,23/12/2023 00:00:00,Emprestado,Camila Santos,33,F
+Frankenstein,14/12/2023 00:00:00,24/12/2023 00:00:00,Disponivel,Pedro Henrique,31,M
+Drácula,15/12/2023 00:00:00,25/12/2023 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+A Menina que Roubava Livros,16/12/2023 00:00:00,26/12/2023 00:00:00,Emprestado,Felipe Pereira,29,M
+O Conde de Monte Cristo,17/12/2023 00:00:00,27/12/2023 00:00:00,Disponivel,Luana Costa,26,F
+O Sol é para Todos,18/12/2023 00:00:00,28/12/2023 00:00:00,NaoDisponivel,Diego Alves,34,M
+O Senhor das Moscas,19/12/2023 00:00:00,29/12/2023 00:00:00,Emprestado,Tatiana Borges,21,F
+A Guerra dos Tronos,20/12/2023 00:00:00,30/12/2023 00:00:00,Disponivel,Gustavo Mendes,28,M
+A Cor Púrpura,21/12/2023 00:00:00,31/12/2023 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+O Lobo da Estepe,22/12/2023 00:00:00,11/12/2023 00:00:00,Emprestado,Rafael Soares,27,M
+O Processo,23/12/2023 00:00:00,12/12/2023 00:00:00,Disponivel,Larissa Freitas,32,F
+A Peste,24/12/2023 00:00:00,13/12/2023 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+O Velho e o Mar,25/12/2023 00:00:00,14/12/2023 00:00:00,Emprestado,Patrícia Martins,31,F
+Crime e Castigo,26/12/2023 00:00:00,15/12/2023 00:00:00,Disponivel,Lucas Rocha,22,M
+O Estrangeiro,27/12/2023 00:00:00,16/12/2023 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+A Casa dos Espíritos,28/12/2023 00:00:00,17/12/2023 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Os Miseráveis,29/12/2023 00:00:00,18/12/2023 00:00:00,Disponivel,Carolina Dias,29,F
+O Grande Gatsby,30/12/2023 00:00:00,19/12/2023 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+Catcher in the Rye,31/12/2023 00:00:00,20/12/2023 00:00:00,Emprestado,Michele Farias,33,F
+1984,02/03/2024 00:00:00,12/03/2024 00:00:00,Disponivel,Isabela,23,F
+Dom Casmurro,03/03/2024 00:00:00,13/03/2024 00:00:00,NaoDisponivel,Ana Maria,25,F
+A Metamorfose,04/03/2024 00:00:00,14/03/2024 00:00:00,Emprestado,João Pedro,30,M
+A Revolução dos Bichos,05/03/2024 00:00:00,15/03/2024 00:00:00,Disponivel,Maria Clara,22,F
+O Alquimista,06/03/2024 00:00:00,16/03/2024 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+O Pequeno Príncipe,07/03/2024 00:00:00,17/03/2024 00:00:00,Emprestado,Paula Fernanda,26,F
+Cem Anos de Solidão,08/03/2024 00:00:00,18/03/2024 00:00:00,Disponivel,José Antonio,35,M
+Moby Dick,09/03/2024 00:00:00,19/03/2024 00:00:00,NaoDisponivel,Juliana Silva,32,F
+Orgulho e Preconceito,10/03/2024 00:00:00,20/03/2024 00:00:00,Emprestado,Ricardo Lima,27,M
+A Divina Comédia,11/03/2024 00:00:00,21/03/2024 00:00:00,Disponivel,Fernanda Souza,29,F
+A Ilíada,12/03/2024 00:00:00,22/03/2024 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+O Morro dos Ventos Uivantes,13/03/2024 00:00:00,23/03/2024 00:00:00,Emprestado,Camila Santos,33,F
+Frankenstein,14/03/2024 00:00:00,24/03/2024 00:00:00,Disponivel,Pedro Henrique,31,M
+Drácula,15/03/2024 00:00:00,25/03/2024 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+A Menina que Roubava Livros,16/03/2024 00:00:00,26/03/2024 00:00:00,Emprestado,Felipe Pereira,29,M
+O Conde de Monte Cristo,17/03/2024 00:00:00,27/03/2024 00:00:00,Disponivel,Luana Costa,26,F
+O Sol é para Todos,18/03/2024 00:00:00,28/03/2024 00:00:00,NaoDisponivel,Diego Alves,34,M
+O Senhor das Moscas,19/03/2024 00:00:00,29/03/2024 00:00:00,Emprestado,Tatiana Borges,21,F
+A Guerra dos Tronos,20/03/2024 00:00:00,30/03/2024 00:00:00,Disponivel,Gustavo Mendes,28,M
+A Cor Púrpura,21/03/2024 00:00:00,31/03/2024 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+O Lobo da Estepe,22/03/2024 00:00:00,11/03/2024 00:00:00,Emprestado,Rafael Soares,27,M
+O Processo,23/03/2024 00:00:00,12/03/2024 00:00:00,Disponivel,Larissa Freitas,32,F
+A Peste,24/03/2024 00:00:00,13/03/2024 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+O Velho e o Mar,25/03/2024 00:00:00,14/03/2024 00:00:00,Emprestado,Patrícia Martins,31,F
+Crime e Castigo,26/03/2024 00:00:00,15/03/2024 00:00:00,Disponivel,Lucas Rocha,22,M
+O Estrangeiro,27/03/2024 00:00:00,16/03/2024 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+A Casa dos Espíritos,28/03/2024 00:00:00,17/03/2024 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Os Miseráveis,29/03/2024 00:00:00,18/03/2024 00:00:00,Disponivel,Carolina Dias,29,F
+O Grande Gatsby,30/03/2024 00:00:00,19/03/2024 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+Catcher in the Rye,31/03/2024 00:00:00,20/03/2024 00:00:00,Emprestado,Michele Farias,33,F
+1984,02/04/2024 00:00:00,12/04/2024 00:00:00,Disponivel,Isabela,23,F
+Dom Casmurro,03/04/2024 00:00:00,13/04/2024 00:00:00,NaoDisponivel,Ana Maria,25,F
+A Metamorfose,04/04/2024 00:00:00,14/04/2024 00:00:00,Emprestado,João Pedro,30,M
+A Revolução dos Bichos,05/04/2024 00:00:00,15/04/2024 00:00:00,Disponivel,Maria Clara,22,F
+O Alquimista,06/04/2024 00:00:00,16/04/2024 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+O Pequeno Príncipe,07/04/2024 00:00:00,17/04/2024 00:00:00,Emprestado,Paula Fernanda,26,F
+Cem Anos de Solidão,08/04/2024 00:00:00,18/04/2024 00:00:00,Disponivel,José Antonio,35,M
+Moby Dick,09/04/2024 00:00:00,19/04/2024 00:00:00,NaoDisponivel,Juliana Silva,32,F
+Orgulho e Preconceito,10/04/2024 00:00:00,20/04/2024 00:00:00,Emprestado,Ricardo Lima,27,M
+A Divina Comédia,11/04/2024 00:00:00,21/04/2024 00:00:00,Disponivel,Fernanda Souza,29,F
+A Ilíada,12/04/2024 00:00:00,22/04/2024 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+O Morro dos Ventos Uivantes,13/04/2024 00:00:00,23/04/2024 00:00:00,Emprestado,Camila Santos,33,F
+Frankenstein,14/04/2024 00:00:00,24/04/2024 00:00:00,Disponivel,Pedro Henrique,31,M
+Drácula,15/04/2024 00:00:00,25/04/2024 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+A Menina que Roubava Livros,16/04/2024 00:00:00,26/04/2024 00:00:00,Emprestado,Felipe Pereira,29,M
+O Conde de Monte Cristo,17/04/2024 00:00:00,27/04/2024 00:00:00,Disponivel,Luana Costa,26,F
+O Sol é para Todos,18/04/2024 00:00:00,28/04/2024 00:00:00,NaoDisponivel,Diego Alves,34,M
+O Senhor das Moscas,19/04/2024 00:00:00,29/04/2024 00:00:00,Emprestado,Tatiana Borges,21,F
+A Guerra dos Tronos,20/04/2024 00:00:00,30/04/2024 00:00:00,Disponivel,Gustavo Mendes,28,M
+A Cor Púrpura,21/04/2024 00:00:00,01/05/2024 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+O Lobo da Estepe,22/04/2024 00:00:00,11/04/2024 00:00:00,Emprestado,Rafael Soares,27,M
+O Processo,23/04/2024 00:00:00,12/04/2024 00:00:00,Disponivel,Larissa Freitas,32,F
+A Peste,24/04/2024 00:00:00,13/04/2024 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+O Velho e o Mar,25/04/2024 00:00:00,14/04/2024 00:00:00,Emprestado,Patrícia Martins,31,F
+Crime e Castigo,26/04/2024 00:00:00,15/04/2024 00:00:00,Disponivel,Lucas Rocha,22,M
+O Estrangeiro,27/04/2024 00:00:00,16/04/2024 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+A Casa dos Espíritos,28/04/2024 00:00:00,17/04/2024 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Os Miseráveis,29/04/2024 00:00:00,18/04/2024 00:00:00,Disponivel,Carolina Dias,29,F
+O Grande Gatsby,30/04/2024 00:00:00,19/04/2024 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+Catcher in the Rye,01/05/2024 00:00:00,20/04/2024 00:00:00,Emprestado,Michele Farias,33,F
+1984,02/04/2024 00:00:00,12/04/2024 00:00:00,Disponivel,Isabela,23,F
+Dom Casmurro,03/04/2024 00:00:00,13/04/2024 00:00:00,NaoDisponivel,Ana Maria,25,F
+A Metamorfose,04/04/2024 00:00:00,14/04/2024 00:00:00,Emprestado,João Pedro,30,M
+A Revolução dos Bichos,05/04/2024 00:00:00,15/04/2024 00:00:00,Disponivel,Maria Clara,22,F
+O Alquimista,06/04/2024 00:00:00,16/04/2024 00:00:00,NaoDisponivel,Carlos Eduardo,28,M
+O Pequeno Príncipe,07/04/2024 00:00:00,17/04/2024 00:00:00,Emprestado,Paula Fernanda,26,F
+Cem Anos de Solidão,08/04/2024 00:00:00,18/04/2024 00:00:00,Disponivel,José Antonio,35,M
+Moby Dick,09/04/2024 00:00:00,19/04/2024 00:00:00,NaoDisponivel,Juliana Silva,32,F
+Orgulho e Preconceito,10/04/2024 00:00:00,20/04/2024 00:00:00,Emprestado,Ricardo Lima,27,M
+A Divina Comédia,11/04/2024 00:00:00,21/04/2024 00:00:00,Disponivel,Fernanda Souza,29,F
+A Ilíada,12/04/2024 00:00:00,22/04/2024 00:00:00,NaoDisponivel,Marcos Vinícius,24,M
+O Morro dos Ventos Uivantes,13/04/2024 00:00:00,23/04/2024 00:00:00,Emprestado,Camila Santos,33,F
+Frankenstein,14/04/2024 00:00:00,24/04/2024 00:00:00,Disponivel,Pedro Henrique,31,M
+Drácula,15/04/2024 00:00:00,25/04/2024 00:00:00,NaoDisponivel,Bianca Oliveira,23,F
+A Menina que Roubava Livros,16/04/2024 00:00:00,26/04/2024 00:00:00,Emprestado,Felipe Pereira,29,M
+O Conde de Monte Cristo,17/04/2024 00:00:00,27/04/2024 00:00:00,Disponivel,Luana Costa,26,F
+O Sol é para Todos,18/04/2024 00:00:00,28/04/2024 00:00:00,NaoDisponivel,Diego Alves,34,M
+O Senhor das Moscas,19/04/2024 00:00:00,29/04/2024 00:00:00,Emprestado,Tatiana Borges,21,F
+A Guerra dos Tronos,20/04/2024 00:00:00,30/04/2024 00:00:00,Disponivel,Gustavo Mendes,28,M
+A Cor Púrpura,21/04/2024 00:00:00,01/05/2024 00:00:00,NaoDisponivel,Isabela Cardoso,30,F
+O Lobo da Estepe,22/04/2024 00:00:00,11/04/2024 00:00:00,Emprestado,Rafael Soares,27,M
+O Processo,23/04/2024 00:00:00,12/04/2024 00:00:00,Disponivel,Larissa Freitas,32,F
+A Peste,24/04/2024 00:00:00,13/04/2024 00:00:00,NaoDisponivel,Fernando Andrade,25,M
+O Velho e o Mar,25/04/2024 00:00:00,14/04/2024 00:00:00,Emprestado,Patrícia Martins,31,F
+Crime e Castigo,26/04/2024 00:00:00,15/04/2024 00:00:00,Disponivel,Lucas Rocha,22,M
+O Estrangeiro,27/04/2024 00:00:00,16/04/2024 00:00:00,NaoDisponivel,Vanessa Ribeiro,27,F
+A Casa dos Espíritos,28/04/2024 00:00:00,17/04/2024 00:00:00,Emprestado,Rodrigo Nogueira,34,M
+Os Miseráveis,29/04/2024 00:00:00,18/04/2024 00:00:00,Disponivel,Carolina Dias,29,F
+O Grande Gatsby,30/04/2024 00:00:00,19/04/2024 00:00:00,NaoDisponivel,Bruno Fonseca,26,M
+Catcher in the Rye,01/05/2024 00:00:00,20/04/2024 00:00:00,Emprestado,Michele Farias,33,F
+O Velho e o Mar teste,02/09/2023 00:00:00,11/09/2023 00:00:00,NaoDisponivel,Tatiana Borges,21,F
+O Velho e o Mar teste,02/09/2023 00:00:00,11/09/2023 00:00:00,NaoDisponivel,Tatiana Borges,21,F
+Androide com Androide Studio Passo a Passo,04/10/2024 00:00:00,04/10/2024 00:00:00,Emprestado,Isabela,23,F
+Androide com Androide Studio Passo a Passo,28/10/2024 00:00:00,31/10/2024 00:00:00,Emprestado,Ricardo Lima,27,M
